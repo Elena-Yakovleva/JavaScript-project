@@ -7,14 +7,14 @@
 
 Операторы бывают:
   * унарные (англ. unary) - работают с одним операндом 
-    * + - оператор контеканации или приведение строки в число 
+    * "+" - оператор контеканации или приведение строки в число 
       ```
       let str = '12,3';
       console.log(typeof str); // строка
       console.log(typeof +str); // число
 
       ```
-    * - - меняет знак у числа
+    * "-" - меняет знак у числа
     * ! - меняет булевый тип данных  == true; != false;  !! - приводит любой тип данных к булевому
     * typeOf - определяет тип данных
   * бинарные (англ. binary) - работают с 2 операндами
@@ -96,7 +96,8 @@ console.log(typeof NaN); // "number"
 console.log(NaN === NaN); // false
 console.log(Number.isNaN(NaN)); // true - Для проверки, что переменная — NaN, следует использовать Number.isNaN()
 
-``
+```
+
 6. Работа со строками
 Строки создаются при помощи двойных или одинарных кавычек:
 ```
@@ -134,6 +135,7 @@ console.log('abc' > 'abd'); // false
 7. Специальные символы
 ```
 console.log('I\'m a JavaScript programmer'); // I'm a JavaScript programmer
+
 console.log('\u262D \u262A \u2766 \u2713 \u262F \u2328'); // ☭ ☪ ❦ ✓ ☯ ⌨
 ```
 
@@ -149,17 +151,23 @@ console.log(a);
 
 ```
 //К числу
+
 console.log(parseFloat('3.14')); // 3.14
+
 console.log(parseInt("13") + 6); // 19
+
 console.log(+"3.13"); //3.13
+
 //К строке
+
 console.log(String(123)); // "123"
+
 console.log(''+12345); // "12345"
+
 // К булеву
+
 console.log(Boolean(123)); // true
+
 console.log(!!123); // true
-// Новые типы
-let s = new Symbol("symbol_name"); // Symbol
-const theBiggestInt = 9007199254740991n; // BigInt
-const alsoHuge = BigInt(9007199254740991); // BigInt
+
 ```
