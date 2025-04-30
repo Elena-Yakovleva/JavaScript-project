@@ -64,8 +64,8 @@ let user = {
 console.log(user.getName());
 ```
 
-![alt text](image.png)
-![alt text](image-1.png)
+![image](image.png)
+![image](image-1.png)
 
 **Функция высшего порядка**  -  это функция, принимающая в качестве аргументов другие функции или возвращающая другую функцию в качестве результата
 

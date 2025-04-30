@@ -7,11 +7,11 @@
 2. Основные понятия.
    * [Лекция](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/lection/README.md)
      * [Условия задачи](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/README.md)
-       * [Код](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/task.js)
+       * [Код задач](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/task.js)
 3. Функции.
-   * [Лекция]()
-     * [Условия задачи]()
-       * [Код]()
+   * [Лекция](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection3/lection/README.md)
+     * [Условия задачи](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection3/README.md)
+       * [Код для функций](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection3/task.js)
 4. Расширенная работа с массивами
    * [Лекция]()
      * [Условия задачи]()
