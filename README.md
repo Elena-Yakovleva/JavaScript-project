@@ -1,38 +1,29 @@
 ### Домашние задания по блоку "Введение в JavaScript"
-1. Знакомство с JavaScript: часть 1
-   * [Лекция](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection1/README.md)
+1. [Знакомство с JavaScript: часть 1](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection1/README.md)
      * [Условия задач](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection1/task/First.md)
        * [Задача 1. Посчитать налоги](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection1/task/sumTask.js)  
        * [Задача 2*. Прогрессивная шкала.](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection1/task/progressiveTax.js)
-2. Основные понятия.
-   * [Лекция](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/lection/README.md)
+2. [Основные понятия.](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/lection/README.md)
      * [Условия задачи](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/README.md)
        * [Код задач](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/task.js)
-3. Функции.
-   * [Лекция](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection3/lection/README.md)
+3. [Функции.](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection3/lection/README.md)
      * [Условия задачи](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection3/README.md)
        * [Код для функций](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection3/task.js)
-4. Расширенная работа с массивами
-   * [Лекция]()
+4. [Расширенная работа с массивами]()
      * [Условия задачи]()
        * []()
-5. Объекты.
-   * [Лекция]()
+5. [Объекты.]()
      * [Условия задачи]()
        * []()
-6. Классы
-   * [Лекция]()
+6. [Классы]()
      * [Условия задачи]()
        * []()
-7. Обработка исключений и замыкания.
-   * [Лекция]()
+7. [Обработка исключений и замыкания.]()
      * [Условия задачи]()
        * []()
-8. Асинхронность.
-   * [Лекция]()
+8. [Асинхронность]()
      * [Условия задачи]()
        * []()
-9. Функции декораторы, оператор “...“, call, apply
-   * [Лекция]()
+9. [Функции декораторы, оператор “...“, call, apply]()
      * [Условия задачи]()
        * []()
