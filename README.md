@@ -5,7 +5,7 @@
        * [Задача 2*. Прогрессивная шкала.](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection1/task/progressiveTax.js)
 2. [Основные понятия.](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/lection/README.md)
      * [Условия задачи](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/README.md)
-       * [Код задач](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/task.js)
+       * [Функция квадратного уравнения и кредитный калькулятор](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection2/task.js)
 3. [Функции.](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection3/lection/README.md)
      * [Условия задачи](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection3/README.md)
        * [Работа с функциями](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection3/task.js)
