@@ -137,10 +137,3 @@ class Student {
 
 }
 
-///let stu = new Student("a", "b", 23);
-
-
-//for (key of keys) {
-//    let resul= stu.marks[key].reduce((acc, item, i, arr) => acc + item / arr.length, 0)
-//    console.log(resul);
-//}
