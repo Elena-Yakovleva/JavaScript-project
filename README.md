@@ -22,8 +22,8 @@
      * [Условия задачи](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection7/README.md)
        * [Форматтер и Треугольник](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection7/task.js)
 8. [Асинхронность](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection8/lection/README.md)
-     * [Условия задачи](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection8/README.md
+     * [Условия задачи](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection8/README.md)
        * [Будильник](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection8/task.js)
-9. [Функции декораторы, оператор “...“, call, apply]()
-     * [Условия задачи]()
-       * []()
+9. [Функции декораторы, оператор “...“, call, apply](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection9/lection/README.md)
+     * [Условия задач](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection9/README.md)
+       * [декоратор](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection9/task.js)
