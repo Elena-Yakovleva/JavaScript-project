@@ -27,3 +27,8 @@
 9. [Функции декораторы, оператор “...“, call, apply](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection9/lection/README.md)
      * [Условия задач](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection9/README.md)
        * [декоратор](https://github.com/Elena-Yakovleva/JavaScript-project/blob/main/lection9/task.js)
+
+### Сертификат об окончании курса
+
+![img.png](img.png)
+
